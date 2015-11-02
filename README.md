@@ -8,7 +8,7 @@ But what's the matter if I just post a json here!
 # Steps to generate the docset
 + Install [dashing](https://github.com/technosophos/dashing#readme)
 + `cd MATLAB_ROOT/help`
-+ `cp THIS_REPO/dashing.json .`
++ `cp THIS_REPO/{dashing.json,icon.png} .`
 + edit `dashing.json` if not using Matlab R2014b
 + `dashing build`
 
