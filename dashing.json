@@ -1,0 +1,13 @@
+{
+    "name": "matlab",
+    "package": "matlab",
+    "index": "documentation-center.html",
+    "selectors": {
+        ".function_ref h1.r2014b[itemprop=title]": "Function"
+    },
+    "ignore": [
+        "ABOUT"
+    ],
+    "icon32x32": "",
+    "allowJS": false
+}
