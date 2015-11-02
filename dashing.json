@@ -8,6 +8,6 @@
     "ignore": [
         "ABOUT"
     ],
-    "icon32x32": "",
+    "icon32x32": "icon.png",
     "allowJS": false
 }
