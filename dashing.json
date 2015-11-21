@@ -3,7 +3,7 @@
     "package": "matlab",
     "index": "documentation-center.html",
     "selectors": {
-        ".function_ref h1.r2014b[itemprop=title]": "Function"
+        ".function_ref h1.r2015b[itemprop=title]": "Function"
     },
     "ignore": [
         "ABOUT"
