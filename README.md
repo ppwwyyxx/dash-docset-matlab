@@ -14,3 +14,5 @@ But what's the matter if I just put a json here!
 
 Right now this json only roughly parses function names (which is enough for me to use).
 Feel free to add more features and contribute!
+
+![screenshot](/screenshot.png)
